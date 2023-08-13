@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapollu&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapollu" /> </p>
 
 
-- 🌱 I’m currently learning **NodeJS based Test Automation tools**
+- 🌱 I’m currently learning **JS based Test Automation tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishnapollu?tab=repositories](https://github.com/krishnapollu?tab=repositories)
 
