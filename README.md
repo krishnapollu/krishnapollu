@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapollu&show_icons=true&locale=en&layout=compact" alt="krishnapollu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnapollu&show_icons=true&locale=en" alt="krishnapollu" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapollu&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapollu" /> </p>
