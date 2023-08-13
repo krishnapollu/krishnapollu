@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapollu&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapollu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnapollu" alt="krishnapollu" /></a> </p>
-
 - 🔭 I’m currently working on [PlayWright](https://github.com/krishnapollu/playwright-nodejs-poc)
 
 - 🌱 I’m currently learning **NodeJS based Test Automation tools**
