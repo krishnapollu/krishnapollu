@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapollu&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapollu" /> </p>
 
 
-- 🌱 I’m currently learning **JS based Test Automation tools**
-
+- 💻 My Interests: Test Automation Tools, TestOps by integrating multple tools and platforms 
+- 🌱 Currently learning AWS and Azure Cloud Platforms
 - 👨‍💻 All of my projects are available at [https://github.com/krishnapollu?tab=repositories](https://github.com/krishnapollu?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
