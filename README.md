@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KRISHNA !</h1>
 <h3 align="center">Test Automation Architect | Playwright | AI-assisted Testing</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnapollu&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapollu" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=krishnapollu&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapollu" /> </p>
 
 <p>
 I'm a Test Automation Architect passionate about building scalable automation solutions and exploring how AI can improve software testing and engineering workflows.
